@@ -157,7 +157,7 @@ stringtie -e -B -p 12 -G stringtie_merged.gtf -o ballgown/ERR188454/ERR188454_ch
 stringtie -e -B -p 12 -G stringtie_merged.gtf -o ballgown/ERR204916/ERR204916_chrX.gtf ERR204916_chrX.bam
 ```
 ---
-### We've successfully completed the RNA-Seq pipeline up to transcript abundance estimation. Typically, companies or sequencing platforms provide the transcript abundance files, which are crucial for downstream analysis. The next step is to focus on ### differential expression, functional annotation, and data visualization. For these tasks, you'll need to excel in R and use tools like Ballgown, DESeq2, and ggplot2 to analyze and interpret the data. With the abundance data, you will be able to find not only genes but also specific transcript isoforms. Continue exploring these tools and apply them to your own datasets. The updated pipeline is now available on GitHub for further exploration.
+### We've successfully completed the RNA-Seq pipeline up to transcript abundance estimation. Typically, companies or sequencing platforms provide the transcript abundance files, which are crucial for downstream analysis. The next step is to focus on differential expression, functional annotation, and data visualization. For these tasks, you'll need to excel in R and use tools like Ballgown, DESeq2, and ggplot2 to analyze and interpret the data. With the abundance data, you will be able to find not only genes but also specific transcript isoforms. Continue exploring these tools and apply them to your own datasets. The updated pipeline is now available on GitHub for further exploration.
 
 
 
