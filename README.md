@@ -1,4 +1,4 @@
-# Step 9: Assemble and Quantify Expressed Transcripts Genes and with StringTie
+# Step 9: Assemble and Quantify Expressed Transcripts and Genes with StringTie
 
 After converting your RNA-Seq alignment files into sorted BAM format, the next step is to assemble and quantify the genes and transcripts to understand which genes are active and how much they are expressed in each sample. This is done using a tool called StringTie.
 
